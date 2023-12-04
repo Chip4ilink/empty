@@ -12,6 +12,7 @@ namespace ConsoleApp4
         {
             Console.WriteLine("Пивет, ми!");
             Console.WriteLine("Работ с git в VS2019");
+            Console.WriteLine("Строка из GitHub");
         }
     }
 }
