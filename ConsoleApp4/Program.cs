@@ -8,6 +8,10 @@ namespace ConsoleApp4
 {
     class Program
     {
+        static void MySuperfunction()
+        {
+            Console.WriteLine("Holla !!!");
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Пивет, ми!");
