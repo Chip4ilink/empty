@@ -11,6 +11,7 @@ namespace ConsoleApp4
         static void Main(string[] args)
         {
             Console.WriteLine("Пивет, ми!");
+            Console.WriteLine("Работ с git в VS2019");
         }
     }
 }
